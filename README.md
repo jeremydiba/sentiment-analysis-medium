@@ -7,7 +7,8 @@ Can download the data here
 https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products/version/5
 
 Results:
-NLTK (VADER)
+
+NLTK (VADER) \n
 reviews.rating  sentiment
 1.0             neg          124
                 neu            6
